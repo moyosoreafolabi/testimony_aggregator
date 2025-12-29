@@ -479,7 +479,7 @@ export default function App() {
               <FileText className="text-white" size={20} />
             </div>
             <div>
-              <h1 className="text-lg font-bold text-slate-900 leading-tight">Testimony Analyzer</h1>
+              <h1 className="text-lg font-bold text-slate-900 leading-tight">GLT Testimony Analytics</h1>
               <p className="text-xs text-slate-500">{fileData?.length} testimonies loaded</p>
             </div>
           </div>
